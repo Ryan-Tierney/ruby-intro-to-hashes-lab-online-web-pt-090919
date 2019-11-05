@@ -45,7 +45,6 @@ monopoly = {:railroads  =>
   {},
     :shortline =>
   {}
-   }
   }
  }
 }
@@ -79,11 +78,10 @@ monopoly = {:railroads  =>
     :shortline =>
   {
     "mortgage_value" => "$800"
-  }
+    }
    }
   }
  }
-}
 
 
 end

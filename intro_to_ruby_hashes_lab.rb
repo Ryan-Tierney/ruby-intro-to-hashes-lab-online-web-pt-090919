@@ -45,6 +45,7 @@ monopoly = {:railroads  =>
   {},
     :shortline =>
   {}
+   }
   }
  }
 }

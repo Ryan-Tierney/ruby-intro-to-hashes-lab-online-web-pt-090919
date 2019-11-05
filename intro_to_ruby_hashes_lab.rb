@@ -70,7 +70,7 @@ monopoly = {:railroads  =>
   },
     :shortline =>
   {
-    "mortgage_value" => "800"
+    "mortgage_value" => "$800"
   },
   :rent_in_dollars => 
   {

@@ -7,14 +7,14 @@ actor = {:name => "Dwayne The Rock Johnson"}
 end
 
 def monopoly 
-monopoly = {:Railroads  => 
+monopoly = {:railroads  => 
 {
 }}
 
 end
 
 def monopoly_with_second_tier
-monopoly = {:Railroads  => 
+monopoly = {:railroads  => 
 {
   :pieces => 4
 }}
@@ -22,7 +22,7 @@ monopoly = {:Railroads  =>
 end
 
 def monopoly_with_third_tier
-monopoly = {:Railroads  => 
+monopoly = {:railroads  => 
 {
   :pieces => 4,
   :names => {}
@@ -31,15 +31,7 @@ monopoly = {:Railroads  =>
 end
 
 def monopoly_with_fourth_tier
-monopoly = {:Railroads  => 
-{
-  :pieces => 4
-}}
-
-end
-
-def monopoly_with_third_tier
-monopoly = {:Railroads  => 
+monopoly = {:railroads  => 
 {
   :pieces => 4,
   :rent_in_dollars

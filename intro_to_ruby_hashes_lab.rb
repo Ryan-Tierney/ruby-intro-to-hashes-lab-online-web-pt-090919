@@ -6,8 +6,9 @@ def actor
 {:name => "Dwayne The Rock Johnson"}
 end
 
-def monopoly
- {:Railroad => }
+def monopoly = {
+ :Railroad => 
+}
 
 end
 
